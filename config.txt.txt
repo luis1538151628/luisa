@@ -1,0 +1,11 @@
+"app_id":"wx146d606134130d91",
+"app_secret":"eb01da4f6be6503e19a8667309354f2b",
+"template_id":"xTqBPYkW_JkC3pma1iaHXLzSaCHunuTY-puU2txwRHg"
+"user":["oUvzW5tq9SSGfALBjyAcgyIm1L58"，"oUvzW5hrb5ZecoQgbhm80HyQpGMg"]
+"province":"陕西",
+"city":"西安",
+"weather_key":	
+0c3224d6afc14904bf104fd61021e359",
+"love date":"2021-01-04"
+	
+s
